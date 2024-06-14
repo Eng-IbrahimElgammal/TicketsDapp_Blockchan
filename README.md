@@ -15,7 +15,7 @@ The Decentralized Ticket Purchasing System is a blockchain-based application bui
 
 1. **Install Ganache**: Download and install Ganache from the [Truffle Suite](https://www.trufflesuite.com/ganache).
 2. **Install Truffle**: Install Truffle globally using npm: `npm install -g truffle`.
-3. **Clone Repository**: Clone the repository to your local machine: `git clone https://github.com/yourusername/yourrepository.git`.
+3. **Clone Repository**: Clone the repository to your local machine: `git clone https://github.com/Eng-IbrahimElgammal/TicketsDapp_Blockchan.git`.
 4. **Install Dependencies**: Install project dependencies using npm: `npm install`.
 
 ## Usage
